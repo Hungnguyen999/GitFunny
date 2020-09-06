@@ -1,1 +1,3 @@
 sửa ở bên branch 2
+Đây là conflict
+
